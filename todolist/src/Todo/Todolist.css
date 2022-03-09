@@ -1,0 +1,27 @@
+ul{
+    margin: 0 auto auto auto;
+    background-image: url("./sms-kaktous.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 30%;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: white;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10rem;
+}
+h1{
+    text-align: center;
+    color: rgb(61, 78, 35);
+ margin-bottom: 0;
+
+}
